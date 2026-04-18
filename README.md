@@ -80,4 +80,4 @@ pip install cloudscraper beautifulsoup4 pandas seaborn matplotlib geopy scikit-l
 ## 👤 Author
 
 **[ABID YASSINR]** — First-year Data Engineering student at ENSA
-[LinkedIn](www.linkedin.com/in/abid-yassine-jsn) · [GitHub](https://github.com/JSN-Y)
+[LinkedIn](https://www.linkedin.com/in/abid-yassine-jsn/) · [GitHub](https://github.com/JSN-Y)
