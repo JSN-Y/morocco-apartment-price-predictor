@@ -1,0 +1,329 @@
+City,Neighborhood,Lat,Lng
+Agadir,Tassila,30.6560103,-9.6446738
+Agadir,Tilila,30.3984274,-9.516003
+Agadir,Hay Mohammadi,30.4387288,-9.5580581
+Agadir,Hay Qods,30.4276758,-9.5561904
+Agadir,Hay Salam,30.4031734,-9.5502882
+Agadir,Haut-Founty,30.399291,-9.5784304
+Agadir,Anza,30.4520064,-9.6590808
+Agadir,Talborjt,30.4237254,-9.5905693
+Agadir,Abattoirs,30.4099062,-9.5893628
+Agadir,Founty,30.3945833,-9.5931204
+Agadir,El Houda,30.3992428,-9.5374739
+Agadir,Centre Ville,31.5115269,-9.7687931
+Agadir,Av Mokawama,,
+Agadir,Hay Dakhla,30.4111874,-9.5567663
+Agadir,Tamraght,30.513951,-9.677378
+Agadir,Taddart Anza,30.4627568,-9.6357109
+Agadir,Haut Anza,30.4550002,-9.6317217
+Agadir,Ben Serguaou,,
+Agadir,Autre secteur,,
+Agadir,Le bord de mer,,
+Agadir,Arghoud,,
+Agadir,Av des Far,,
+Agadir,Ihchach,30.4254499,-9.5842274
+Agadir,Al Wifaq,30.3929571,-9.5637186
+Agadir,Cité Adrar,,
+Agadir,Zone Industrielle Agadir,30.3320486,-9.4920134
+Agadir,Hay Al Farah,30.4031734,-9.5502882
+Agadir,Le centre-ville,,
+Agadir,Hay Massira,30.4017834,-9.5730536
+Agadir,Agadir Oufella,30.4244851,-9.6114672
+Agadir,Sonaba,30.3996557,-9.5878933
+Agadir,Anoual Souss,30.4193807,-9.5636773
+Agadir,Amicales,30.4313666,-9.5791672
+Agadir,Amsernate,30.4152918,-9.5754482
+Agadir,Hay Zaytoun,,
+Agadir,Marina,30.4248743,-9.6128595
+Agadir,Hay Najah,,
+Agadir,Bouargane,,
+Agadir,Riad Salam,30.4096973,-9.5762705
+Agadir,Secteur Touristique,,
+Agadir,Lekhiam,,
+Agadir,Hay Al Wafaa,,
+Agadir,Wifaq,30.3929571,-9.5637186
+Agadir,Hay Hassani,30.414403,-9.5846671
+Agadir,Extension Dakhla,30.4063538,-9.5452951
+Agadir,Assaka,30.3783766,-9.5152871
+Agadir,Najah,30.4248759,-9.5806469
+Rabat,Souissi,33.9688418,-6.8348164
+Rabat,Hay Riad,33.9567844,-6.8777482
+Rabat,Hassan,34.0139405,-6.8256177
+Rabat,Aakkari,34.006362,-6.8560583
+Rabat,Autre secteur,,
+Rabat,Agdal,33.9983119,-6.8542908
+Rabat,Hay Nahda,33.9779476,-6.8161983
+Rabat,Kébibat,34.0152895,-6.8541718
+Rabat,Guich Oudaya,33.9394209,-6.8862954
+Rabat,Diour Jamaa,34.0135783,-6.8467906
+Rabat,Hay Arrachad,,
+Rabat,Riyad,33.951829,-6.884073
+Rabat,Quartier de l'Océan,,
+Rabat,Yacoub El Mansour,33.9738778,-6.8926131
+Rabat,Hay el Fath,33.8334274,-7.0547693
+Rabat,El Youssoufia,33.9845243,-6.8203304
+Rabat,Médina de Rabat,34.019368,-6.8277679
+Rabat,Al Irfane,33.9816535,-6.8646296
+Rabat,Haut Agdal,33.9931706,-6.857981
+Rabat,Aviation - Mabella,,
+Rabat,Hay Al Farah,,
+Rabat,Riyad Extension,,
+Rabat,Abi Ragrag,,
+Rabat,Taqaddoum,,
+Marrakech,Av Mohammed VI,31.5768415,-7.9845679
+Marrakech,Hay Izdihar,,
+Marrakech,Guéliz,31.6321881,-8.0108135
+Marrakech,Mabrouka,31.6240284,-7.9897085
+Marrakech,Route de Casablanca,31.6786906,-7.9994872
+Marrakech,Agdal,31.5927743,-7.9987925
+Marrakech,Autre secteur,,
+Marrakech,Route de Safi,31.6415023,-8.0316972
+Marrakech,Palmeraie,31.6747627,-7.982627
+Marrakech,Hivernage,31.6225589,-8.0083128
+Marrakech,Route de Tamansourt,,
+Marrakech,Es Saada,,
+Marrakech,Azli,31.6234522,-8.0540472
+Marrakech,Route de Tahanaoute,,
+Marrakech,Assif,31.6543389,-8.0056702
+Marrakech,Victor Hugo,31.6414423,-8.0233207
+Marrakech,Majorelle,31.6414746,-8.0029077
+Marrakech,Route de Fès,31.6480093,-7.9386197
+Marrakech,M'Hamid,31.5912101,-8.0477137
+Marrakech,Hay Targa,31.6349018,-8.0516982
+Marrakech,Semlalia,31.6446256,-8.0132807
+Marrakech,Route de Ouarzazate,,
+Marrakech,Bab Doukkala,31.6339851,-7.9989925
+Marrakech,Av Abdelkrim El Khattabi,,
+Marrakech,Hay Charaf,,
+Marrakech,Les Portes de Marrakech,31.6491388,-8.0385605
+Marrakech,Allal El Fassi,31.6546754,-8.0026128
+Marrakech,Daoudiate,31.653858,-7.9938905
+Marrakech,Centre Ville,31.5115269,-9.7687931
+Marrakech,Massira 1,31.6342909,-8.067871
+Marrakech,Annakhil,31.6509445,-7.9592152
+Marrakech,Route d'Amezmiz,,
+Marrakech,Azzouzia,31.688837,-8.0721167
+Marrakech,Harti,31.6307737,-8.0112248
+Marrakech,Ain Mezouar,31.6273542,-8.0377649
+Marrakech,Bouaakkaz,31.5937554,-8.0211261
+Marrakech,Amerchich,31.6695899,-8.0044112
+Marrakech,Targa,31.6443637,-8.0421632
+Marrakech,Massira 2,31.6367391,-8.0665973
+Marrakech,Akioud,31.0465469,-7.9496658
+Marrakech,Route d'Ourika,31.3770011,-7.8055863
+Marrakech,Sidi Youssef Ben Ali,31.6090052,-7.9679007
+Marrakech,Issil,31.661077,-8.0103468
+Marrakech,Hôpital Militaire,31.6348612,-8.0216517
+Marrakech,Socoma,31.6192533,-8.064403
+Marrakech,El Ghoul,,
+Marrakech,Zone Industrielle Sidi Ghanem,31.6718587,-8.0461576
+Marrakech,Rouidat,,
+Marrakech,Massira,31.6340699,-8.0557608
+Marrakech,Bd Moulay Abdellah,31.6265846,-7.9919735
+Marrakech,Amelkis,31.6119434,-7.945602
+Marrakech,Hay Al Massar,31.6738391,-8.0312073
+Marrakech,Afaq,31.6486734,-8.1196213
+Marrakech,Hay Massira,32.3103754,-9.2154349
+Marrakech,Sidi Abbad,31.654225,-8.0162102
+Marrakech,Massira 3,31.6441587,-8.065229
+Marrakech,Sanaoubar,31.6686216,-8.0280919
+Marrakech,Bab Atlas,31.6600915,-7.9171412
+Marrakech,Sakar,31.659438,-8.0003914
+Marrakech,El Moukef,31.6342647,-7.9825741
+Marrakech,Hay Al Hassani,31.6329115,-8.0443968
+Marrakech,Masmoudi,31.6527663,-8.0547755
+Marrakech,Sofia,31.6238798,-7.9879842
+Marrakech,Route de Lalla Takerkoust,,
+Marrakech,Route de Sidi A. Ghiat,31.5288717,-7.8377098
+Marrakech,Route d'Agadir - Essaouira,31.3003565,-9.7193668
+Marrakech,Hay Andalous,32.3176696,-9.2227357
+Marrakech,Fassi,31.6755025,-8.0277448
+Marrakech,Michouar,,
+Marrakech,Av Mohammed V,32.3105396,-9.2273703
+Marrakech,Massar,31.6716551,-8.0402657
+Marrakech,Hay Lalla Haya,,
+Marrakech,Bin Lkchali,,
+Marrakech,Arset Ihiri,31.6375418,-7.9952744
+Marrakech,Rmila,,
+Marrakech,Hay Al Bahja,31.5645564,-8.0779626
+Marrakech,Iziki,31.6215776,-8.0563318
+Marrakech,Bab El Khemis,31.6391004,-7.9858434
+Tanger,Centre ville,35.196734,-6.1521045
+Tanger,Centre,35.7460062,-5.8450621
+Tanger,Malabata,35.7785538,-5.7768233
+Tanger,Du Golf,35.775918,-5.8548297
+Tanger,Autre secteur,,
+Tanger,Marjane,35.7462167,-5.8448104
+Tanger,Ziatene,,
+Tanger,Sania,35.7787383,-5.7551633
+Tanger,Hay Hassani,35.746288,-5.8498403
+Tanger,Tanger City Center,35.7738552,-5.7871421
+Tanger,Al Irfane 2,35.7382849,-5.8903564
+Tanger,Aouama Gharbia,35.7261824,-5.8038898
+Tanger,Ahlane,,
+Tanger,De La Plage,35.7829964,-5.8104869
+Tanger,Achakar,35.776388,-5.9302808
+Tanger,Tanja Balia,35.7643529,-5.7599345
+Tanger,la Nouvelle Ville Ibn Battouta,,
+Tanger,Castilla,35.7674075,-5.8147553
+Tanger,nouinouich,35.7942857,-5.7251807
+Tanger,Zemmouri,35.7392491,-5.867097
+Tanger,Iberie,,
+Tanger,Aida,35.7591223,-5.843128
+Tanger,Moujahidine,35.7712561,-5.8442361
+Tanger,Mesnana,35.7564316,-5.8583
+Tanger,Val Fleuri,35.769499,-5.8358982
+Tanger,Branes Kdima,35.7470171,-5.8673859
+Tanger,Aharrarine,,
+Tanger,Branes 2,35.7470171,-5.8673859
+Tanger,Mghogha,35.7487231,-5.7794545
+Tanger,Aviation,,
+Tanger,Administratif,,
+Tanger,Al Mandar Al Jamil,,
+Tanger,Mister Khouch,35.7738241,-5.8327767
+Tanger,Boukhalef,35.7337667,-5.8831334
+Tanger,Moulay Youssef,35.7709753,-5.8122013
+Tanger,Mediouna,35.7718665,-5.9089654
+Tanger,M'nar,35.8165259,-5.7476463
+Tanger,Branes 1,35.7470171,-5.8673859
+Tanger,Jbel Kbir,,
+Tanger,Mozart,35.7742449,-5.7979833
+Tanger,El Majd,,
+Tanger,El Baraka,35.1737906,-3.865841
+Tanger,Azib Haj Kaddour,,
+Tanger,Charf,35.7718355,-5.7932623
+Tanger,Beni Makada Lakdima,,
+Tanger,Médina,35.786408,-5.8109634
+Tanger,M'sallah,35.7743237,-5.8175644
+Tanger,Gourziana,35.742325,-5.8127852
+Tanger,Benkirane,35.754196,-5.7895878
+Tanger,Ain El Hayani,,
+Tanger,Casabarata,35.7646237,-5.823807
+Tanger,Beni Touzine,35.739823,-5.846676
+Tanger,Santa,35.167462,-5.2632946
+Tanger,Makhoukha,,
+Tanger,Achennad,35.7404209,-5.8286718
+Tanger,Alia,35.7636391,-5.794075
+Tanger,Zone Industrielle Mghogha,35.7418519,-5.7818354
+Tanger,Bel Air - Val fleuri,,
+Tanger,Hay Al Bassatine,,
+Tanger,Ennasr,,
+Tanger,Jirrari,,
+Tanger,El Khair 1,34.9436275,-5.6571942
+Tanger,Msala,35.1701228,-5.2653594
+Tanger,manar,35.75959,-5.8495551
+Tanger,Haddad,35.7384367,-5.8050053
+Tanger,Girari,,
+Tanger,Marchan,35.7873434,-5.8189344
+Tanger,Draoua,,
+Tanger,Zouitina,35.732901,-5.8116348
+Tanger,Bir El Ghazi,35.7148101,-5.8099652
+Tanger,Hay El Boughaz,,
+Tanger,Drissia,35.754,-5.8
+Tanger,Port Tanger ville,,
+Tanger,Hanaa 3 - Soussi,,
+Tanger,Souani,35.7700104,-5.8236111
+Tanger,Lalla Chafia,35.7714855,-5.8172455
+Tanger,Ben Dibane,35.7591081,-5.8261108
+Tanger,Al Amal,35.7622384,-5.8194224
+Tanger,Hanaa 2,,
+Tanger,Cap spartel,35.7915279,-5.9256665
+Tanger,Ahammar,35.7485343,-5.8802819
+Tanger,Dher Ahjjam,,
+Tanger,El Mrabet,35.4142296,-5.3846125
+Tanger,Marchane,,
+Tanger,El Mers 1,35.7357819,-5.8195504
+Tanger,Californie,,
+Casablanca,Casablanca Finance City,33.5631545,-7.6604232
+Casablanca,Californie,33.5411922,-7.626038
+Casablanca,Sidi Maarouf,33.5286123,-7.646462
+Casablanca,Racine,33.5896092,-7.6407011
+Casablanca,Maârif Extension,33.5796583,-7.6420884
+Casablanca,Abdelmoumen,33.5705527,-7.6259823
+Casablanca,Gauthier,33.5898333,-7.6306305
+Casablanca,Hay Hassani,33.5702887,-7.678495
+Casablanca,Maarif,33.5836296,-7.6367005
+Casablanca,Errahma,33.5500364,-7.69789
+Casablanca,Bachkou,33.5570776,-7.6274253
+Casablanca,Bourgogne,33.5985679,-7.6418596
+Casablanca,Quartier des Hôpitaux,,
+Casablanca,Palmier,33.5810494,-7.6330145
+Casablanca,Aïn Borja,33.5803669,-7.5919089
+Casablanca,Route d'El Jadida,33.5382701,-7.6623019
+Casablanca,Laimoune,,
+Casablanca,Roches Noires,33.5931914,-7.5957822
+Casablanca,Moulay Youssef,33.6023382,-7.6328871
+Casablanca,2 Mars,33.5690979,-7.6127062
+Casablanca,Les Princesses,33.5770141,-7.6480351
+Casablanca,Val Fleuri,33.5748756,-7.6369836
+Casablanca,Almaz,,
+Casablanca,Ain Sebaa,33.6059943,-7.5387936
+Casablanca,Triangle d'Or,33.5896092,-7.6407011
+Casablanca,Oasis,33.5546945,-7.6314184
+Casablanca,Lissasfa,33.5314545,-7.6724261
+Casablanca,Oulfa,33.551296,-7.6843462
+Casablanca,Hay Mohammadi,33.5841444,-7.5569559
+Casablanca,Aïn Chock,33.5370603,-7.5981542
+Casablanca,Hôrloge,33.5954855,-7.6140136
+Casablanca,Autre secteur,,
+Casablanca,Sidi Othmane,33.5570072,-7.5603844
+Casablanca,Beauséjour,33.5684105,-7.6492935
+Casablanca,Al Qods,33.5436704,-7.5819537
+Casablanca,Aïn Diab,33.5811626,-7.6843877
+Casablanca,Sidi Bernoussi,33.6190686,-7.5003234
+Casablanca,Nassim,33.5425088,-7.6521545
+Casablanca,La Gironde,33.5877884,-7.6011649
+Casablanca,Ferme Bretone,,
+Casablanca,Belvédère,33.5854037,-7.5897702
+Casablanca,Mers Sultan,33.5698317,-7.6088337
+Casablanca,Riviera,33.5621584,-7.6407346
+Casablanca,Franceville,33.5622952,-7.629552
+Casablanca,Derb Omar,33.0014126,-7.613991
+Casablanca,Anfa,33.5945144,-7.6200284
+Casablanca,Centre Ville,33.2482831,-8.4984575
+Casablanca,Mandarona,33.5325713,-7.6121917
+Casablanca,Derb Ghallef,33.2595485,-8.5120311
+Casablanca,Ben M'sick,33.5542611,-7.5813658
+Casablanca,Sidi Moumen,33.5843834,-7.5072051
+Casablanca,Hay Inara,33.537,-7.6
+Casablanca,Al Fida,33.5649078,-7.5965827
+Casablanca,Al Madina Aljadida,33.5546607,-7.5340457
+Casablanca,Sbata,33.5376589,-7.564046
+Casablanca,Zone Industrielle,33.6013247,-7.4994285
+Casablanca,Marina,33.6059185,-7.6207842
+Casablanca,Salmia,33.5380059,-7.5676556
+Casablanca,Hay Moulay Rachid,33.2715256,-7.5654525
+Casablanca,Bournazil,33.5698647,-7.5577663
+Casablanca,Hay Chrifa,33.535032,-7.6099651
+Casablanca,Sidi Belyout,33.6014716,-7.6019398
+Casablanca,C.I.L,33.5673558,-7.6562059
+Casablanca,Hay Sadri,33.5722123,-7.5540572
+Casablanca,Hay Moulay Rachid 4,33.2715256,-7.5654525
+Casablanca,Hay Laymouna,,
+Casablanca,Al Mostakbal,33.2412383,-8.5288834
+Casablanca,Ben Ejdia,,
+Casablanca,Hay Al Amal,33.2387898,-8.5253645
+Casablanca,Hay Albaraka,,
+Casablanca,Route d'Azemmour,33.5557522,-7.7293614
+Casablanca,Hay Moulay Rachid 5,33.2715256,-7.5654525
+Casablanca,Fonciere,33.5909831,-7.6206687
+Casablanca,Hay Almassira 1,,
+Casablanca,Hay Almassira 3,,
+Casablanca,Hay El Farah,33.5682583,-7.5871927
+Casablanca,Hay Moulay Rachid 6,33.2715256,-7.5654525
+Casablanca,Hay Moulay Rachid 1,33.2715256,-7.5654525
+Casablanca,Alsace Lorraine,33.5881538,-7.6125987
+Casablanca,Lusitania,,
+Casablanca,Hermitage,33.5666079,-7.6209496
+Casablanca,Hay Rajaa,,
+Casablanca,Zone Industrielle Moulay Rachid,,
+Casablanca,Habous,33.5745744,-7.5970263
+Casablanca,Hay Mansour,,
+Casablanca,Les Cretes,33.5495136,-7.624092
+Casablanca,Al Batha,,
+Casablanca,Val d'Anfa,33.5949159,-7.6543731
+Casablanca,El Manar El Hank,,
+Casablanca,Hay Hana,33.5773715,-7.665022
+Casablanca,Tantonville,,
+Casablanca,Florida,33.5815018,-7.5626989
+Casablanca,Hay Alfalah,,
